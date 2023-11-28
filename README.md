@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedsherif003"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/ahmedsherif003"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
 </p> 
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent)
