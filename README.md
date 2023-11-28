@@ -23,21 +23,21 @@
 ### 🌪Languages and Tools
 
 
-<img align="left" alt="C" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="CMake" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
-<img align="left" alt="GCC" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="CPP" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Pyhton" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="VSCode" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="MySQL" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Github" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Arduino" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<img align="left" alt="Intellij" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
-<img align="left" alt="JetBrains" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
-<img align="left" alt="MarkDown" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
-<img align="left" alt="PyCharm" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>\
+<img align="left" alt="C" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="CMake" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
+<img align="left" alt="GCC" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg"/>
+<img align="left" alt="Java" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="CPP" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Pyhton" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="VSCode" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="MySQL" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Github" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Arduino" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+<img align="left" alt="Intellij" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+<img align="left" alt="JetBrains" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/>
+<img align="left" alt="MarkDown" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/>
+<img align="left" alt="PyCharm" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>\
 
 #
 
