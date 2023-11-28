@@ -1,12 +1,8 @@
-# ✨ Ahmed Sherif 
+# ✨ Ahmed Sherif  <a href="https://www.linkedin.com/in/ahmedsherif003"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
 **` Senior Computer and Systems Engineering Student  `**
 
 👋 Hi, I'm Ahmed Sherif! A final-year Computer and Systems Engineering student deeply passionate about Embedded Systems and the automotive industry. My interests span software programming and firmware engineering, where I love diving into the intricate world of creating seamless, innovative solutions. Eager to explore the convergence of technology and mobility to drive future advancements
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedsherif003"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-</p> 
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent)
 ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedSherif-eng&theme=transparent)
