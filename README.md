@@ -6,7 +6,7 @@
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent)
 ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedSherif-eng&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSherif-eng)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSherif-eng&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 --- 
 
 
