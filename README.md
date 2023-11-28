@@ -6,17 +6,11 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedsherif003"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-</p>
+</p> 
 
-<p align="center">
-  <a href="https://github.com/ahmedSherif-eng">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/ahmedSherif-eng?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/ahmedSherif-eng">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent)
+![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedSherif-eng&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSherif-eng)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 --- 
 
 
@@ -41,6 +35,8 @@
 <br>
 
 #
+
+![](https://komarev.com/ghpvc/?username=ahmedSherif-eng&base=1000&style=plastic)   
 
 
 
