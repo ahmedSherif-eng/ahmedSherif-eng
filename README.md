@@ -6,7 +6,7 @@
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent)
 ![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedSherif-eng&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedSherif-eng&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vex&layout=compact)
 --- 
 
 
@@ -31,7 +31,7 @@
 <br>
 
 #
-
+[![wakatime](https://wakatime.com/badge/user/1573cfda-f106-4c1b-87c2-64cdbd982d7a.svg)](https://wakatime.com/@1573cfda-f106-4c1b-87c2-64cdbd982d7a)
 ![](https://komarev.com/ghpvc/?username=ahmedSherif-eng&base=1000&style=plastic)   
 
 
