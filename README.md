@@ -4,13 +4,17 @@
 👋 Hi, I'm Ahmed Sherif! A final-year Computer and Systems Engineering student deeply passionate about Embedded Systems and the automotive industry. My interests span software programming and firmware engineering, where I love diving into the intricate world of creating seamless, innovative solutions. Eager to explore the convergence of technology and mobility to drive future advancements
 
 
-<center>
-  
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent)
-![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedSherif-eng&theme=transparent)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vex&layout=compact)
-</center>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent" alt="Ahmed's GitHub stats">
+</p>
 
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedSherif-eng&theme=transparent" alt="Ahmed's GitHub Streak">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vex&layout=compact" alt="Harlok's WakaTime stats">
+</p>
 --- 
 
 
