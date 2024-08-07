@@ -1,5 +1,5 @@
 # ✨ Ahmed Sherif  <a href="https://www.linkedin.com/in/ahmedsherif003"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-**` Senior Computer and Systems Engineering Student  `**
+**`Recent Computer Engineering Graduate | Enthusiast in Embedded Systems, Java (Spring Framework), and JavaScript `**
 
 👋 Hi, I'm Ahmed Sherif! I recently graduated with a degree in Computer and Systems Engineering and am passionate about both Embedded Systems and Java programming with the Spring framework. I also have good knowledge of JavaScript. I love exploring the intricacies of software programming and firmware engineering and am excited about the opportunities in these fields. Eager to drive future advancements through innovative solutions in technology and mobility.
 
@@ -16,13 +16,13 @@
 
 
 ### 🌪Languages and Tools
-
+<img align="left" alt="Java" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+ <img align="left" alt="Spring" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="C" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
 <img align="left" alt="C" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="CMake" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
 <img  align="left" alt="CMake" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="GCC" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg"/>
-<img align="left" alt="Java" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="CPP" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Pyhton" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="VSCode" width="35px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
