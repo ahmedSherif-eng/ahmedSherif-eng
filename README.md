@@ -1,7 +1,7 @@
 # ✨ Ahmed Sherif  <a href="https://www.linkedin.com/in/ahmedsherif003"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
 **`Recent Computer Engineering Graduate | Enthusiast in Embedded Systems, Java (Spring Framework), and JavaScript `**
 
-👋 Hi, I'm Ahmed Sherif! I recently graduated with a degree in Computer and Systems Engineering and am passionate about both Embedded Systems and Java programming with the Spring framework. I also have good knowledge of JavaScript. I love exploring the intricacies of software programming and firmware engineering and am excited about the opportunities in these fields. Eager to drive future advancements through innovative solutions in technology and mobility.
+👋 Hi, I'm Ahmed Sherif! I'm a teaching assistant in Egypt University of Informatics (EUI) and am passionate about both Cryptography and Java programming with the Spring framework. I also have good knowledge of JavaScript. I love exploring the intricacies of software programming and firmware engineering and am excited about the opportunities in these fields. Eager to drive future advancements through innovative solutions in technology and mobility.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedSherif-eng&show_icons=true&theme=transparent" alt="Ahmed's GitHub stats" style="width: 45%; height: auto;">
